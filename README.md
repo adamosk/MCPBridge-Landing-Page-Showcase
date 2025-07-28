@@ -114,12 +114,12 @@ code --install-extension MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge
 
 ## 🔧 Supported IDEs & Platforms
 
-| IDE | Status | Extension |
-|-----|--------|-----------|
-| **VS Code** | ✅ Full Support | [Marketplace](https://marketplace.visualstudio.com/items?itemName=MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge-setup) |
-| **Cursor** | ✅ Full Support | Built-in MCP Support |
-| **JetBrains** | 🚧 Coming Soon | In Development |
-| **Vim/Neovim** | 🚧 Coming Soon | In Development |
+| IDE            | Status         | Extension                                                                                                                        |
+| -------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **VS Code**    | ✅ Full Support | [Marketplace](https://marketplace.visualstudio.com/items?itemName=MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge-setup) |
+| **Cursor**     | ✅ Full Support | Built-in MCP Support                                                                                                             |
+| **JetBrains**  | 🚧 Coming Soon  | In Development                                                                                                                   |
+| **Vim/Neovim** | 🚧 Coming Soon  | In Development                                                                                                                   |
 
 ---
 
