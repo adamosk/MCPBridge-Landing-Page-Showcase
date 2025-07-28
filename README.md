@@ -138,7 +138,7 @@ code --install-extension MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge
 ## 📚 Documentation & Resources
 
 - 🌐 **Main Website**: [mcpbridge.dev](https://mcpbridge.dev)
-- 📖 **Documentation**: [mcpbridge.dev/docs](https://mcpbridge.dev/docs)
+- 📖 **Documentation**: [mcpbridge.dev/setup](https://mcpbridge.dev/setup)
 - 🎯 **Setup Guide**: [mcpbridge.dev/setup](https://mcpbridge.dev/setup)
 - 💬 **Support**: [mcpbridge.dev/contact](https://mcpbridge.dev/contact)
 - 📧 **Email**: <support@mcpbridge.dev>
