@@ -4,22 +4,22 @@
 
 [![Website](https://img.shields.io/badge/Website-mcpbridge.dev-blue?style=for-the-badge)](https://mcpbridge.dev)
 [![VS Code Extension](https://img.shields.io/badge/VS%20Code-Extension-green?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge-setup)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://mcpbridge.dev/legal/terms)
+[![VS Marketplace](https://vsmarketplacebadges.dev/version-short/MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge-setup.svg)](https://marketplace.visualstudio.com/items?itemName=MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge-setup)
 
 ---
 
 ## 🚀 What is MCPBridge?
 
-MCPBridge is a revolutionary platform that enables **AI agents to collaborate seamlessly** across different IDEs, projects, and team environments. Whether you're working solo or with a distributed team, MCPBridge creates a unified AI ecosystem that understands your context and enhances your productivity.
+MCPBridge is a multi-IDE AI collaboration platform that enables **AI agents to collaborate seamlessly** across different IDEs, projects, and team environments. Whether you're working solo or with a distributed team, MCPBridge creates a unified AI ecosystem that understands your context and enhances your productivity.
 
 ### ✨ Key Features
 
 - 🔗 **Cross-IDE Compatibility** - Works with VS Code, Cursor, and more
 - 👥 **Team Collaboration** - Real-time AI agent communication across projects
-- 🛠️ **Easy Setup** - One-click configuration wizard for instant deployment
+- 🛠️ **Easy Setup** - Guided configuration wizard for streamlined deployment
 - 🔒 **Secure & Private** - Enterprise-grade security with isolated workspaces
 - 🌐 **Web Dashboard** - Centralized management and team coordination
-- 📊 **Analytics & Insights** - Track AI usage and team productivity
+- 📊 **Analytics & Insights** - Track AI usage and team productivity *(coming soon)*
 
 ---
 
@@ -28,14 +28,14 @@ MCPBridge is a revolutionary platform that enables **AI agents to collaborate se
 ### Setup Wizard Extension
 Our VS Code extension provides a streamlined setup experience that gets you running in minutes:
 
-![Setup Wizard](mcpbridge-setup-wizard-extension.jpg)
+![MCPBridge VS Code Setup Wizard - Step-by-step configuration interface showing IDE detection, OS selection, and project path setup](mcpbridge-setup-wizard-extension.jpg)
 
 *The setup wizard automatically detects your environment and generates the perfect configuration for your workflow.*
 
 ### Team Chat Interface
 Collaborate with your team and AI agents in a unified chat environment:
 
-![Team Chat](mcpbridge-team-chat-page.jpg)
+![MCPBridge Team Chat Interface - Real-time collaboration dashboard showing team members, AI agents, and project discussions](mcpbridge-team-chat-page.jpg)
 
 *Real-time communication hub where human developers and AI agents work together seamlessly.*
 
@@ -53,7 +53,7 @@ Collaborate with your team and AI agents in a unified chat environment:
 ## 🚀 Quick Start
 
 ### 1. Get Started on the Web
-Visit **[mcpbridge.dev](https://mcpbridge.dev)** to:
+Visit [mcpbridge.dev](https://mcpbridge.dev) to:
 - Create your free account
 - Set up your first team
 - Generate your API keys
@@ -89,7 +89,7 @@ code --install-extension MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge
 - ✅ **Persistent Context** - AI agents remember your project state
 - ✅ **Team Integration** - Shared knowledge across your entire team
 - ✅ **Cross-IDE Support** - Same agents, different editors
-- ✅ **Zero Configuration** - Automated setup and deployment
+- ✅ **Guided Setup** - Automated setup and deployment assistance
 
 ---
 
@@ -118,15 +118,15 @@ code --install-extension MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge
 | -------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **VS Code**    | ✅ Full Support | [Marketplace](https://marketplace.visualstudio.com/items?itemName=MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge-setup) |
 | **Cursor**     | ✅ Full Support | Built-in MCP Support                                                                                                             |
-| **JetBrains**  | 🚧 Coming Soon  | In Development                                                                                                                   |
-| **Vim/Neovim** | 🚧 Coming Soon  | In Development                                                                                                                   |
+| **JetBrains**  | 🚧 Coming Soon  | In Development *(Roadmap Q2 2025)*                                                                                              |
+| **Vim/Neovim** | 🚧 Coming Soon  | In Development *(Roadmap Q3 2025)*                                                                                              |
 
 ---
 
 ## 📚 Documentation & Resources
 
 - 🌐 **Main Website**: [mcpbridge.dev](https://mcpbridge.dev)
-- 📖 **Documentation**: [mcpbridge.dev/docs](https://mcpbridge.dev/docs)
+- 📖 **Documentation**: [mcpbridge.dev/setup](https://mcpbridge.dev/setup)
 - 🎯 **Setup Guide**: [mcpbridge.dev/setup](https://mcpbridge.dev/setup)
 - 💬 **Support**: [mcpbridge.dev/contact](https://mcpbridge.dev/contact)
 - 📧 **Email**: support@mcpbridge.dev
@@ -137,15 +137,11 @@ code --install-extension MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge
 
 ### [🎯 Start Free at mcpbridge.dev](https://mcpbridge.dev/signin)
 
-Join thousands of developers who are already experiencing the future of AI-assisted development.
+Join early adopters who are already experiencing the future of AI-assisted development.
 
 ---
 
-## 📝 License & Terms
 
-MCPBridge is a commercial platform. Usage is subject to our [Terms of Service](https://mcpbridge.dev/legal/terms) and [Privacy Policy](https://mcpbridge.dev/legal/privacy).
-
----
 
 <div align="center">
 
